@@ -11,6 +11,7 @@ Ideally, only your server holds these, and the clients just ask the server for d
 ## Docs (Official Epicor Docs)
 All you need to figure the rest API out is in the official documentation page epicor provides here:<br>
 
+https://ee-erp11-app.excoeng.com/ERP11-PRD/api/help/v2/index.html<br>
 https://ee-erp11-test.excoeng.com/ERP11-TST/api/help/v2/index.html<br>
 
 To access this you need a Exco Epicor Username and Password<br>
