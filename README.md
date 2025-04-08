@@ -6,7 +6,7 @@ This project requires the epicor credentials to be passed in as enviroment varia
 
 We want to keep these out of the repo and user's computers.<br>
 
-Ideally, only your server holds these, and the clients just ask the server for data. Ask Rodrigo for more details.
+Ideally, only your server holds these (as database entry or enviroment variables), and the clients just ask the server for data. Ask Rodrigo for more details.
 
 ## Docs (Official Epicor Docs)
 All you need to figure the rest API out is in the official documentation page epicor provides here:<br>
