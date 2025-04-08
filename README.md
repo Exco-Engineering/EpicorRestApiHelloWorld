@@ -14,3 +14,8 @@ All you need to figure the rest API out is in the official documentation page ep
 https://ee-erp11-test.excoeng.com/ERP11-TST/api/help/v2/index.html<br>
 
 To access this you need a Exco Epicor Username and Password<br>
+
+## Example 
+See code and docs for notes about getting data from Epicor "normal" services or BAQ "custom" services.
+![image](https://github.com/user-attachments/assets/a4e6eb7e-083c-4876-9044-208913cda297)
+
